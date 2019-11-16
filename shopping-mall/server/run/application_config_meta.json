@@ -1,0 +1,322 @@
+{
+  "keys": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+  "middleware": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+      "port": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+      "hostname": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js"
+    }
+  },
+  "view": {
+    "mapping": {
+      ".html": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js"
+    },
+    "root": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "mongoose": {
+    "client": {
+      "url": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+      "options": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js"
+    },
+    "open": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+    "url": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "options": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "plugins": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "loadModel": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "app": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "agent": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+    "domainWhiteList": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js",
+      "value": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.local.js",
+      "maxAge": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js",
+      "value": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js",
+      "value": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js",
+      "policy": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "key": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+    "maxAge": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+    "overwrite": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+    "httpOnly": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+    "signed": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+    "rolling": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+    "renew": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+    "encrypt": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "jsonLimit": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+    "enable": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "encoding": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "formLimit": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "textLimit": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "strict": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "depth": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "parameterLimit": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "jwt": {
+    "secret": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+    "enable": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-jwt@3.1.6@egg-jwt\\config\\config.default.js"
+  },
+  "url": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+  "uploadDir": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+  "secret": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\config\\config.default.js",
+  "helper": {
+    "shtml": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-security@2.7.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
+      "development": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
+      "file": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-multipart@2.9.0@egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-multipart@2.9.0@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-multipart@2.9.0@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-multipart@2.9.0@egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-multipart@2.9.0@egg-multipart\\config\\config.default.js",
+    "fields": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-multipart@2.9.0@egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-multipart@2.9.0@egg-multipart\\config\\config.default.js",
+    "files": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-multipart@2.9.0@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-multipart@2.9.0@egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-multipart@2.9.0@egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-multipart@2.9.0@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-multipart@2.9.0@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "fastReady": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "ejs": {
+    "root": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
+    "cache": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.local.js",
+    "debug": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
+    "compileDebug": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
+    "delimiter": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
+    "strict": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js"
+  },
+  "env": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "name": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "proxy": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "ipHeaders": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "hostHeaders": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "version": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "description": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "private": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-cors": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-jwt": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-mongoose": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-scripts": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-view-ejs": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "md5": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "mz-modules": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "request": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "silly-datetime": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "svg-captcha": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "autod-egg": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-bin": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-ci": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-mock": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "eslint": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "webstorm-disable-index": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "stop": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "dev": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "debug": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "test": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "test-local": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "cov": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "lint": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "ci": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "autod": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "url": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "author": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "license": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "baseDir": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "HOME": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "rundir": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "notFound": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "sitefile": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "middlewares": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "httpClient": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "encoding": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "env": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "level": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "consoleLevel": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "outputJSON": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "buffer": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "appLogName": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "coreLogName": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "agentLogName": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "errorLogName": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "maxSockets": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "maxSockets": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "logging": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "serverTimeout": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "responseTimeout": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\WangXinyu_projects\\shoppingmall\\shopping-mall\\server\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+}
